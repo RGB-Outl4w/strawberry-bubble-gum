@@ -75,3 +75,7 @@ This repository is maintained by:
 ## Contact
 
 For any questions or concerns, please contact the maintainers via the issue tracker. 
+
+## Reminder
+
+Don't take this repo too seriously, okay? It's an open storage. Full of goods, but no pure gold. _Ya get it?_
