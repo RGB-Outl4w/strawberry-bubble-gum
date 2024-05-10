@@ -7,11 +7,10 @@ This repository serves as a centralized hub for globally essential files used ac
 ## Contents
 
 - The following will be added in the future. Stay tuned!
-
-* **`/config`**: This directory houses configuration files for different applications and services. These files define settings, parameters, and environment variables crucial for proper functionality.  Subdirectories may exist to organize configurations by project or type.
-* **`/indexes`**: Contains pre-built indexes used for search, data analysis, or other operations requiring optimized data access. These indexes might be in formats like JSON, XML, or binary, depending on their intended use.
-* **`/templates`**: This directory holds reusable templates for documents, scripts, or code snippets. These templates help enforce standardization and reduce redundant work across projects.
-* **`/scripts`**: Contains utility scripts for automating tasks related to repository management, configuration deployment, index updates, or other operational needs. 
+    * **`/config`**: This directory houses configuration files for different applications and services. These files define settings, parameters, and environment variables crucial for proper functionality.  Subdirectories may exist to organize configurations by project or type.
+    * **`/indexes`**: Contains pre-built indexes used for search, data analysis, or other operations requiring optimized data access. These indexes might be in formats like JSON, XML, or binary, depending on their intended use.
+    * **`/templates`**: This directory holds reusable templates for documents, scripts, or code snippets. These templates help enforce standardization and reduce redundant work across projects.
+    * **`/scripts`**: Contains utility scripts for automating tasks related to repository management, configuration deployment, index updates, or other operational needs. 
 
 ## Usage
 
