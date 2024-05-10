@@ -1,4 +1,4 @@
-# 🍓 Strawberry Bubble Gum   //   KRNL.MACHINE.CLOUD.STORAGE
+# 🍓 Strawberry Bubble Gum   //   _CLOUD.KRNL.MACHINE.STORAGE[0]
 
 # Global Configuration and Index Repository
 
