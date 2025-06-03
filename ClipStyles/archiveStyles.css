@@ -1,0 +1,21 @@
+.clip-archived-counter {
+  margin-top: 20px;
+  padding: 16px;
+  background: #2c2d31;
+  border-radius: 8px;
+  color: #6b7280;
+  text-align: center;
+  font-size: 14px;
+}
+
+.archived-line {
+  height: 2px;
+  background: #3a3b3f;
+  margin-bottom: 12px;
+  border-radius: 1px;
+}
+
+.clip-card.favorite {
+  border-color: #ffd700;
+  background: rgba(255, 215, 0, 0.05);
+}
